@@ -1,0 +1,9 @@
+main: me.M7mdm3rq.custominventory.Main
+name: CustomShop
+version: 0.01V
+author: M7mdm3rq
+api-version: 1.13
+
+commands:
+  openshop:
+    aliases: shop
